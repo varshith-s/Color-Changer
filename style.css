@@ -1,0 +1,48 @@
+
+#color{
+    background-color:whitesmoke;
+    overflow: visible;
+}
+.horiz-center {
+    margin:15px 15px 15px 15px;
+    margin-top:50px;
+    display:block;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+.center{
+    text-align: center;
+    margin-top:16px;
+    margin-bottom: 26px;
+
+}
+div->center{
+    margin-left:0px;
+    margin-right: 0px;
+}
+.border{
+    border-style: dashed;
+    border-color: black;
+    background-color:beige;
+}
+.aqua{
+    background-color:aqua;
+}
+.red{
+    background-color: red;
+}
+.violet{
+    background-color:violet;
+}
+.blueviolet{
+    background-color:blueviolet;
+}
+.crimson{
+    background-color:crimson;
+}
+.darkgray{
+    background-color:darkgray;
+}
+.springgreen{
+    background-color:springgreen;
+}
